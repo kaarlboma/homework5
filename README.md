@@ -1,2 +1,29 @@
-# homework5
-DS 592 HW5
+# How to Run the Code
+Install the required Python packages:
+
+```bash
+pip install numpy matplotlib jupyter
+```
+
+## Running the Code
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/kaarlboma/homework5.git
+cd homework5
+```
+
+2. Start Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+3. Open the notebook:
+
+```
+Programming Portion.ipynb
+```
+
+4. Run all cells in the notebook.
